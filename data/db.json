@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Ego is the Enemy",
+      "author": "Ryan Holiday",
+      "body": "Ego Is the Enemy is the fourth book by author Ryan Holiday, published on June 14, 2016. It is about the treacherous nature of ego.",
+      "id": 1
+    },
+    {
+      "title": "Blacklist",
+      "author": "Raymond Redington",
+      "body": "A wanted fugitive mysteriously surrenders himself to the FBI and offers to help them capture deadly criminals. His sole condition is that he will work only with the new profiler, Elizabeth Keen.",
+      "id": 2
+    }
+  ]
+}
